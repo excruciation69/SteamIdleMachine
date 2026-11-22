@@ -1,0 +1,10 @@
+Fonts bundled with SteamIdleMachine. All are licensed under the SIL Open Font License, Version 1.1:
+https://openfontlicense.org
+
+Manrope        Copyright 2018 The Manrope Project Authors (https://github.com/sharanda/manrope)
+Exo 2          Copyright 2013 The Exo 2 Project Authors (https://github.com/googlefonts/Exo-2.0)
+JetBrains Mono Copyright 2020 The JetBrains Mono Project Authors (https://github.com/JetBrains/JetBrainsMono)
+Inter          Copyright 2016 The Inter Project Authors (https://github.com/rsms/inter)
+Outfit         Copyright 2021 The Outfit Project Authors (https://github.com/Outfitio/Outfit-Fonts)
+
+The fonts are distributed as WOFF2 subsets (Manrope, Exo 2 and JetBrains Mono from the Fontsource project; Inter Display cut down to Latin and Cyrillic) and Outfit as the variable TTF from Google Fonts.
